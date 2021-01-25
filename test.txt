@@ -1,0 +1,7 @@
+总用量 20
+drwxr-xr-x 3 tarena tarena 4096 1月  26 00:35 ./
+drwxrwxr-x 3 tarena tarena 4096 1月  26 00:34 ../
+drwxr-xr-x 8 tarena tarena 4096 1月  26 00:34 .git/
+-rw-r--r-- 1 tarena tarena 1799 1月  26 00:34 .gitignore
+-rw-r--r-- 1 tarena tarena   18 1月  26 00:34 rigister.py
+-rw-r--r-- 1 tarena tarena    0 1月  26 00:35 test.txt
